@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BusayoAfolabi12
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data and Web development
 - 🌱 I’m currently learning SQL and Phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: busayoafolabi12@gmail.com, 
